@@ -112,7 +112,3 @@ This project demonstrates the effectiveness of machine learning in predicting he
 **Author**
 
 Zagabathuni Udaya Lakshmi
-
-**License**
-
-This project is for educational purposes only.
